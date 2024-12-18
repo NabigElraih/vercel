@@ -1,0 +1,10 @@
+{
+"cardDet":
+[{
+"id":1,
+"src"="https://media.istockphoto.com/id/2078490118/photo/businessman-using-laptop-to-online-payment-banking-and-online-shopping-financial-transaction.jpg?s=1024x1024&w=is&k=20&c=SDepWtu5jUrc1Jk_GlQSqlD1mwUgfZXYjOJaoeadIQU=",
+"title"="The everyday Meal",
+"description"="taking your boring salad up a knotchthis recipe is perfect for lunch and only contain 5 ingrediants"
+      
+}]
+}
